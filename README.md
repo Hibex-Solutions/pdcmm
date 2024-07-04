@@ -4,52 +4,64 @@
 
 PDCMM é um padrão para documentar os processos de gestão de uma empresa puramente digital.
 Criado por _Hibex Solutions_ para documentar seus próprios processos e disponibilizar a seus
-colaboradores, e de forma gratuita sobre os termos da [Licença Apache - versão 2.0](./LICENSE) a quem
-desejar implementar o padrão em suas próprias empresas.
+colaboradores, e de forma gratuita sobre os termos da [Licença Apache - versão 2.0](./LICENSE)
+a quem desejar implementar o padrão em suas próprias empresas.
 
-## Resumo
+## Definição de empresa puramente digital
 
 Entendemos por uma empresa puramente digital, a que oferece produtos ou serviços que não
 são físicos desde o nascimento, ou seja, já naceram como serviços digitais. Portanto precisam
 gerenciar seus serviços e produtos tendo como base as plataformas digitais de software.
 
-Desde do gerenciamento de seus colaboradores, os trabalhos realizados por eles, produção,
-entrega e suporte de seus produtos e serviços aos seus clientes finais, além da gestão de
-campanhas de marketing, e etc. Tudo é feito através de software, sejam próprios ou de terceiros.
+Desde o gerenciamento de seus colaboradores, os trabalhos realizados por eles, a produção,
+entrega e suporte de seus produtos e serviços a usuários finais, além da gestão de campanhas
+de marketing, e tudo mais que seja necessário para funcionamento da empresa; tudo é feito
+através do uso de software, sejam próprios ou de terceiros.
 
-Esse cenário revela que o mundo do software é real a essas empresas desde o seu nascimento,
+Isso nos revela que o mundo do software é real a essas empresas desde o seu nascimento,
 e muitas vezes, essas empresas nunca sequer inauguraram uma sede física (além de formalizações
-legais). Para essas empresas, o software não é um luxo ou complemento a necessidades.
-Trata-se de sua própria realidade e existência. Essas são a que chamamos de "empresas
-puramente digitais".
+legais). Para essas empresas, o software não é um luxo ou complemento a necessidades, mas
+trata-se da sua realidade e existência.
 
-Essas empresas puramente digitais devem não somente gerenciar seus artefatos de softwares
-e documentos de forma digital, mas o seu próprio modelo de gestão deve estar sobre seu controle
-e ser paupável (digitalmente é óbvio). Basicamente toda a propriedade intelectual é digital,
-compreendendo seu inventário de software, seus processos e todas as informações relevantes
-para a manutenção da empresa.
+A essas, chamamos de **"Empresas Puramente Digitais"** _(Purely Digital Company)_.
 
-O que propomos é uma forma de estruturar essas informações e disponibilizá-las de forma
-transparente, segura e protegida aos colaboradores de uma empresa puramente digital.
+Tais empresas devem não somente gerenciar seus artefatos de softwares e documentos de forma
+digital, mas o seu próprio modelo de gestão deve ser paupável digitalmente também.
+Basicamente toda a propriedade intelectual é digital, compreendendo seu inventário de
+softwares, processos e todas as informações relevantes para a manutenção da empresa.
 
-## Implementação
+## A proposta PDCMM
 
-Para implementar o PDCMM em sua empresa você precisa entender e implementar 7 (sete)
-definições específicas que vamos descrever em seguida.
+O que propomos é uma forma de estruturar as informações digitais dessas empresas, e
+disponibilizá-las de forma transparente, segura e bem documentada a seus colaboradores.
 
-Você pode implementar apenas as que lhe forem convenientes se fizer sentido para seu negócio,
-mas não estará implementando PDCMM. O Modelo de Gestão de Empresa Puramente Digital, como
-descrito aqui, só é alcançado com a implementação de todas as 7 (sete) definições.
+## A implementação
+
+Para implementar PDCMM em uma empresa é necessário 3 (três) passos:
+
+1. Concordar com o _Conjunto de Definições PDCMM_
+2. Disponibilizar essa documentação PDCMM junto a documentação de implementação a todos os
+   colaboradores
+3. Seguir todas as definições documentadas pela PDCMM Extendida da empresa
 
 A documentação digital, os artefatos relacionados, bem como a implementação de todas as
 definições compreendem o próprio modelo de gestão da empresa, e portanto, seu PDCMM.
 
-Ou seja, o PDCMM de uma empresa é: o conjunto de documentos digitais, todas suas referências,
-histórico de mudança nesses documentos, histórico de registros de ações internas, e cultura
-da empresa ao seguir as recomendações deste padrão e outros; e, o PDCMM de uma empresa pode
-ser interpretado como seu inventário de propriedade intelectual digital.
+O PDCMM de uma empresa é o conjunto de documentos digitais (incluindo esta definição),
+todas suas referências, histórico de mudança nos documentos, histórico de registros de ações
+internas, e cultura da empresa ao seguir as definições deste padrão.
 
-A seguir temos as definições de um PDCMM.
+O PDCMM de uma empresa pode ser interpretado como seu inventário de propriedade intelectual
+digital.
+
+Este documento definie o que é um PDCMM e contém suas definições formais com suas asserções,
+porém não define como implementá-la. Portanto este documento é o que chamamos de "documentação
+PDCMM". A empresa que deseja implementar PDCMM, deve completar a documentação com as
+"implementações" de cada definição, e a essa documentação complementar chamamos de
+"documentação de implementação".
+
+Ao documentar as definições, também se faz necessário que cada asserção tenha uma documentação
+que explique como se alcança o resultado de tal na implementação definida.
 
 ### Definição 1 - Tudo é digital
 
