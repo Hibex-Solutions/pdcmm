@@ -4,7 +4,7 @@
 
 PDCMM é um padrão para documentar os processos de gestão de uma empresa puramente digital.
 Criado por _Hibex Solutions_ para documentar seus próprios processos e disponibilizar a seus
-colaboradores, e de forma gratuita sobre os termos da [Licença Apache](./LICENSE) a quem
+colaboradores, e de forma gratuita sobre os termos da [Licença Apache - versão 2.0](./LICENSE) a quem
 desejar implementar o padrão em suas próprias empresas.
 
 ## Resumo
