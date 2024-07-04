@@ -226,10 +226,7 @@ os demais produtos de software que compõem a plataforma.
 
 - Todo colaborador deve dominar a técnica de compartilhamento de dados sensíveis
 - Toda a técnica de compartilhamento deve ser documentada
-- Devem haver revisões de conhecimento periódicos
-
-### Definição 7 - Todo dado sensível está disponível de forma protegida
-
+- Devem haver revisões de conhecimento periódicos sobre conhecimento dos colaboradores
 - Os dados sensíveis devem ser armazenados de forma protegida
 - O processo de proteção deve ser documentado
 - Os dados devem ser encontrados pela documentação ainda que não possam ser acessados
@@ -240,3 +237,5 @@ os demais produtos de software que compõem a plataforma.
   - O último nível de acesso sobressalente "nunca deve ser digital", mas físico
   - Todo acesso sobresalente físico deve existir em mais de uma cópia
   - Todo dado chave de segurança/proteção deve passar por inspeções e validações periódicas
+
+### Definição 7 - O processo deve ser recertificado internamente em períodos regulares
