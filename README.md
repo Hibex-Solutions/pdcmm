@@ -1,6 +1,6 @@
-# PDCMM - Purely Digital Company Management Model - v20240703
+# PDCMM - Purely Digital Company Management Model
 
-Modelo de Gestão de Empresa Puramente Digital.
+> Em português: Modelo de Gestão de Empresa Puramente Digital.
 
 PDCMM é um padrão para documentar os processos de gestão de uma empresa puramente digital.
 Criado por _Hibex Solutions_ para documentar seus próprios processos e disponibilizar a seus
