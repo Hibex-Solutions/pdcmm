@@ -2,66 +2,110 @@
 
 > Em português: Modelo de Gestão de Empresa Puramente Digital.
 
-PDCMM é um padrão para documentar os processos de gestão de uma empresa puramente digital.
-Criado por _Hibex Solutions_ para documentar seus próprios processos e disponibilizar a seus
-colaboradores, e de forma gratuita sobre os termos da [Licença Apache - versão 2.0](./LICENSE)
-a quem desejar implementar o padrão em suas próprias empresas.
+PDCMM é um padrão para documentar os processos de gestão de uma empresa
+puramente digital, criado por _Hibex Solutions_ para documentar seus próprios
+processos e disponibilizar a seus colaboradores, e de forma gratuita sobre os
+termos da [Licença Apache - versão 2.0](./LICENSE) a quem desejar implementar o
+padrão em suas próprias empresas.
 
 ## Definição de empresa puramente digital
 
-Entendemos por uma empresa puramente digital, a que oferece produtos ou serviços que não
-são físicos desde o nascimento, ou seja, já naceram como serviços digitais. Portanto precisam
-gerenciar seus serviços e produtos tendo como base as plataformas digitais de software.
+Entendemos por uma empresa puramente digital, a que oferece produtos ou
+serviços que não são físicos desde o nascimento, ou seja, já naceram como
+serviços digitais. Portanto precisam gerenciar seus serviços e produtos tendo
+como base as plataformas digitais de software.
 
-Desde o gerenciamento de seus colaboradores, os trabalhos realizados por eles, a produção,
-entrega e suporte de seus produtos e serviços a usuários finais, além da gestão de campanhas
-de marketing, e tudo mais que seja necessário para funcionamento da empresa; tudo é feito
-através do uso de software, sejam próprios ou de terceiros.
+Desde seus produtos e serviços, o gerenciamento de seus colaboradores, os
+trabalhos realizados por eles, o processo de produção, entrega e suporte a
+usuários finais, além da gestão de campanhas de marketing, e tudo mais que seja
+necessário para funcionamento da empresa; tudo é feito através do uso de
+software, sejam próprios ou de terceiros.
 
-Isso nos revela que o mundo do software é real a essas empresas desde o seu nascimento,
-e muitas vezes, essas empresas nunca sequer inauguraram uma sede física (além de formalizações
-legais). Para essas empresas, o software não é um luxo ou complemento a necessidades, mas
-trata-se da sua realidade e existência.
+Isso nos revela que o mundo do software é real a essas empresas desde o seu
+nascimento, e permanecerá dessa forma nos dias que se seguem. Para essas
+empresas, o software não é um luxo ou complemento a necessidades, mas trata-se
+da sua realidade e existência.
 
-A essas, chamamos de **"Empresas Puramente Digitais"** _(Purely Digital Company)_.
-
-Tais empresas devem não somente gerenciar seus artefatos de softwares e documentos de forma
-digital, mas o seu próprio modelo de gestão deve ser paupável digitalmente também.
-Basicamente toda a propriedade intelectual é digital, compreendendo seu inventário de
-softwares, processos e todas as informações relevantes para a manutenção da empresa.
+Essa é uma **"Empresa Puramente Digital"** _(Purely Digital Company)_.
 
 ## A proposta PDCMM
 
-O que propomos é uma forma de estruturar as informações digitais dessas empresas, e
-disponibilizá-las de forma transparente, segura e bem documentada a seus colaboradores.
+A proposta é que tais empresas devem não somente gerenciar seus artefatos de
+softwares e documentos de forma digital, mas o seu próprio modelo de gestão
+deve ser paupável digitalmente também. Basicamente toda a propriedade
+intelectual é digital, e compreende seu inventário de softwares, processos e
+todas as informações relevantes para a manutenção da empresa.
 
-## A implementação
+PDCMM é uma forma de estruturar essas as informações digitais e
+disponibilizá-las de forma transparente, segura e bem documentada aos
+colaboradores de uma _Empresa Puramente Digital_.
 
-Para implementar PDCMM em uma empresa é necessário 3 (três) passos:
+## Como implementar PDCMM?
 
-1. Concordar com o _Conjunto de Definições PDCMM_
-2. Disponibilizar essa documentação PDCMM junto a documentação de implementação a todos os
-   colaboradores
-3. Seguir todas as definições documentadas pela PDCMM Extendida da empresa
+A implementação de PDCMM em uma empresa consiste em seguir 3 (três) simples passos:
 
-A documentação digital, os artefatos relacionados, bem como a implementação de todas as
-definições compreendem o próprio modelo de gestão da empresa, e portanto, seu PDCMM.
+### 1. Concordar com o conjunto de definições PDCMM
 
-O PDCMM de uma empresa é o conjunto de documentos digitais (incluindo esta definição),
-todas suas referências, histórico de mudança nos documentos, histórico de registros de ações
-internas, e cultura da empresa ao seguir as definições deste padrão.
+Quando você disponibiliza este _Conjunto de Definições PDCMM_ de forma explícita
+em sua estrutura, você está concordando com elas.
 
-O PDCMM de uma empresa pode ser interpretado como seu inventário de propriedade intelectual
-digital.
+### 2. Disponibilizar a documentação PDCMM aos colaboradores
 
-Este documento definie o que é um PDCMM e contém suas definições formais com suas asserções,
-porém não define como implementá-la. Portanto este documento é o que chamamos de "documentação
-PDCMM". A empresa que deseja implementar PDCMM, deve completar a documentação com as
-"implementações" de cada definição, e a essa documentação complementar chamamos de
-"documentação de implementação".
+A documentação PDCMM é a junção deste guia, mais a documentação de
+implementação das definições (que é próprio de cada empresa). Juntos formam
+a _documentação PDCMM_, e essa documentação deve estar disponível a todos os
+colaboradores, independente da função na empresa.
 
-Ao documentar as definições, também se faz necessário que cada asserção tenha uma documentação
-que explique como se alcança o resultado de tal na implementação definida.
+### 3. Seguir todas as definições da documentação PDCMM
+
+O ato de seguir as definições é uma questão cultural da empresa, e a forma como
+isso é validado também é próprio de cada empresa, porém isso estará definido na
+documentação de implementação. Portanto, a documentação de implementação do
+PDCMM deve expor as recomendações e regras de implementação, bem como a forma
+de validar se tais recomendações e regras estão sendo seguidas adequadamente.
+
+Quando é possível validar o seguimento das recomendações e regras, também é
+possível validar que este passo 3 (três) está em conformidade, e isso é o que
+certifica um PDCMM devidamente implementado.
+
+## O Guia PDCMM
+
+O PDCMM de uma empresa é o conjunto de documentos digitais, incluindo este guia,
+mas também todas suas referências, histórico de mudança nos documentos,
+histórico de registros de ações internas, além da própria cultura da empresa ao
+seguir as as definições PDCMM.
+
+> O PDCMM de uma empresa pode ser interpretado como seu _inventário de
+> propriedade intelectual digital_.
+
+
+Este guia definie o que é um PDCMM e contém 7 (sete) definições formais, cada
+uma com um conjunto de asserções que certificam como validar uma implementação.
+
+Porém, este guia, propositalmente não define como implementar as definições em
+si. Ao invés disso, deixa a cargo de cada empresa complementar o PDCMM, com a
+disponibilização de um documento de implementação para cada uma das 7 (sete)
+definições. Esse conjunto de documentos de implementação são chamados de
+**"documentação de implementação PDCMM"**.
+
+Portanto uma empresa deve unir este guia a seus documentos de implementação, e
+juntos formarão o que a **"documentação PDCMM"**.
+
+## As definições PDCMM
+
+A seguir temos a descrição de 7 (sete) definições, e para cada uma, um conjunto
+de asserções que certificam a definição.
+
+Na descrição de cada definição também temos os nomes dos documentos que devem
+descrever sua implementação e a validação das asserções relacionadas na _documentação PDCMM_ final.
+
+*Uma asserção* é uma frase que deve ser considerada verdade sempre.
+
+*Um documento de validação de asserção* descreve os passos necessários para
+validar se de fato a asserção é verdadeira no contexto validado, e portanto,
+são os passos para certificação da definição.
+
+Seguem as 7 (sete) definições.
 
 ### Definição 1 - Tudo é digital
 
@@ -86,7 +130,7 @@ essa abordagem é recomendada.
 - Use um serviço de armazenamento em nuvem, e centralize os dados em um único local
 - Faça backup periódico para mídias físicas que estejam sobre propriedade da empresa
 
-### Definição 2 - O histórico de evolução do inventário também é um artefato do inventário
+### Definição 2 - Tudo deve ter histórico armazenado
 
 Toda mudança nos arquivos e documentos que compreendem o inventário tecnológico deve ser
 registrada. Isso permite não apenas uma auditoria futura, mas também identificar cenários
@@ -108,7 +152,7 @@ você precisa garantir que seus backups também contenham o histórico e não s�
 
 > A "Definição 2" depende da "Definição 1" e também a implementa
 
-### Definição 3 - Toda propriedade da empresa é registrada
+### Definição 3 - Toda propriedade da empresa deve estar catalogada
 
 Assume-se que a propriedade é da empresa e não das pessoas que a gerenciam. Portanto, quando
 a gestão muda, os dados devem estar disponíveis imediatamente e de forma transparente aos
@@ -162,7 +206,7 @@ a aplicação deve residir no repositório do inventário, ou deve ser referenci
 
 > A "Definição 3" depende da "Definição 2", pois espera-se que toda movimentação seja registrada.
 
-### Definição 4 - A composição dos colaboradores está mapeada e acessível aos colaboradores
+### Definição 4 - A composição dos colaboradores deve estar catalogada
 
 O registro das informações essenciais de todos os colaboradores deve estar disponível para consulta
 por qualquer outro colaborador, tanto o presidente quanto a todos os demais. Nenhuma informação
@@ -186,7 +230,7 @@ residir no repositório de colaboradores, ou deve ser referenciado lá.
 
 O repositório de colaboradores deve ser nomeado como `company-collaborators`.
 
-### Definição 5 - Todo processo de criação de produto é registrado
+### Definição 5 - Todos os produtos e serviços devem estar catalogados
 
 O processo de criação dos produtos da empresa devem seguir padrões bem especificados e documentados.
 Cada produto, já pronto ou em desenvolvimento, ou ainda em idealização, deve residir em um local
@@ -222,7 +266,7 @@ os demais produtos de software que compõem a plataforma.
 
 > TODO: Incluir referência a documentação sobre "estrutura de projetos de plataforma"
 
-### Definição 6 - Todos os colaboradores lidam com dados digitais sensíveis
+### Definição 6 - Os colaboradores devem saber lidar com dados sensíveis
 
 - Todo colaborador deve dominar a técnica de compartilhamento de dados sensíveis
 - Toda a técnica de compartilhamento deve ser documentada
@@ -238,4 +282,4 @@ os demais produtos de software que compõem a plataforma.
   - Todo acesso sobresalente físico deve existir em mais de uma cópia
   - Todo dado chave de segurança/proteção deve passar por inspeções e validações periódicas
 
-### Definição 7 - O processo deve ser recertificado internamente em períodos regulares
+### Definição 7 - As asserções devem ser certificadas interna e periodicamente
